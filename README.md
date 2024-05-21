@@ -14,7 +14,7 @@ Arcadia est un zoo situé en France près de la forêt de Brocéliande, en breta
 
 1. **Cloner le Dépôt** :
    ```bash
-   git clone https://github.com/9aderr/Arcadia.git
+   git clone (https://github.com/RAMMACHyc/Arcadia_Zoo.git)
    ```
 
 2. **Installer les Dépendances** :
@@ -72,4 +72,4 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce proje
 
 ## Contact
 
-Pour toute question ou suggestion, n'hésitez pas à contacter [kader Abdelsadok](mailto:kader.abdelsadok@live.fr).
+Pour toute question ou suggestion, n'hésitez pas à contacter [Sedik Rammach](mailto:rammachsedik@gmail.com.fr).
